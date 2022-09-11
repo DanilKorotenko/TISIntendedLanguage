@@ -383,9 +383,9 @@
 	<key>com.apple.keylayout.PinyinKeyboard</key>
 	<string></string>
 	<key>com.apple.keylayout.Polish</key>
-	<string></string>
+	<string>pl</string>
 	<key>com.apple.keylayout.PolishPro</key>
-	<string></string>
+	<string>pl</string>
 	<key>com.apple.keylayout.Portuguese</key>
 	<string></string>
 	<key>com.apple.keylayout.Romanian</key>
