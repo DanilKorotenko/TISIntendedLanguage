@@ -393,11 +393,11 @@
 	<key>com.apple.keylayout.Romanian-Standard</key>
 	<string></string>
 	<key>com.apple.keylayout.Russian</key>
-	<string></string>
+	<string>ru</string>
 	<key>com.apple.keylayout.Russian-Phonetic</key>
-	<string></string>
+	<string>ru</string>
 	<key>com.apple.keylayout.RussianWin</key>
-	<string></string>
+	<string>ru</string>
 	<key>com.apple.keylayout.Sami-PC</key>
 	<string></string>
 	<key>com.apple.keylayout.Sanskrit</key>
@@ -477,17 +477,17 @@
 	<key>com.apple.keylayout.Turkmen</key>
 	<string></string>
 	<key>com.apple.keylayout.US</key>
-	<string></string>
+	<string>en-us</string>
 	<key>com.apple.keylayout.USExtended</key>
-	<string></string>
+	<string>en-us</string>
 	<key>com.apple.keylayout.USInternational-PC</key>
-	<string></string>
+	<string>en-us</string>
 	<key>com.apple.keylayout.Ukrainian</key>
-	<string></string>
+	<string>ua</string>
 	<key>com.apple.keylayout.Ukrainian-PC</key>
-	<string></string>
+	<string>ua</string>
 	<key>com.apple.keylayout.Ukrainian-QWERTY</key>
-	<string></string>
+	<string>ua</string>
 	<key>com.apple.keylayout.UnicodeHexInput</key>
 	<string></string>
 	<key>com.apple.keylayout.Urdu</key>
