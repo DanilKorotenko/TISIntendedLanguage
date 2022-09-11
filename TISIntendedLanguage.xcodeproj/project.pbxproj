@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		DA5F260828CE46830042ADBB /* TISIntendedLanguage */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TISIntendedLanguage; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA5F260B28CE46830042ADBB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DA5F261428CE4CBA0042ADBB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		DA5F261528CE4CBA0042ADBB /* TISIntendedLanguage.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = TISIntendedLanguage.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,8 @@
 		DA5F25FF28CE46830042ADBB = {
 			isa = PBXGroup;
 			children = (
+				DA5F261428CE4CBA0042ADBB /* README.md */,
+				DA5F261528CE4CBA0042ADBB /* TISIntendedLanguage.plist */,
 				DA5F260A28CE46830042ADBB /* TISIntendedLanguage */,
 				DA5F260928CE46830042ADBB /* Products */,
 			);
