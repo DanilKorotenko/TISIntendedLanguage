@@ -467,13 +467,13 @@
 	<key>com.apple.keylayout.TraditionalWubihuaKeyboard</key>
 	<string></string>
 	<key>com.apple.keylayout.Turkish</key>
-	<string></string>
+	<string>tr</string>
 	<key>com.apple.keylayout.Turkish-QWERTY</key>
-	<string></string>
+	<string>tr</string>
 	<key>com.apple.keylayout.Turkish-QWERTY-PC</key>
-	<string></string>
+	<string>tr</string>
 	<key>com.apple.keylayout.Turkish-Standard</key>
-	<string></string>
+	<string>tr</string>
 	<key>com.apple.keylayout.Turkmen</key>
 	<string></string>
 	<key>com.apple.keylayout.US</key>
